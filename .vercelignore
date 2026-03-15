@@ -1,0 +1,7 @@
+node_modules
+.next
+.turbo
+frontend/.next
+frontend/.turbo
+frontend/node_modules
+packages/*/node_modules
