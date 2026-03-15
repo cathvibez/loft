@@ -1,0 +1,15 @@
+{
+  "name": "loft",
+  "version": "0.1.0",
+  "description": "The Loft: A digital sanctuary for Gen Z tech workers",
+  "private": true,
+  "packageManager": "npm@11.11.0",
+  "workspaces": ["frontend", "services/*", "packages/*"],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}
