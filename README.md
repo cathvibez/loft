@@ -7,6 +7,7 @@ A digital sanctuary for Gen Z tech workers.
 ⚡ Shared cross-user image cache — identical object types reuse cached illustrations across all users, cutting redundant AI image-generation calls and latency
 🛡️ Graceful AI degradation — 8s timeout races on all fal.ai calls plus a 3-tier fallback chain (AI image → SVG → emoji) so the UI never breaks, even during API outages
 🏗️ 2.5D depth rendering engine — custom React layer that derives z-index, scale, and float animation from object position for a game-like sense of depth
+
 ## Setup
 
 ### Prerequisites
