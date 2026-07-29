@@ -1,7 +1,7 @@
 # The Loft
 
 A digital sanctuary for Gen Z tech workers.
-🪴 AI-powered journaling — daily logbook entries are automatically categorized into Work / Hobby / Wellness / Social using OpenAI (gpt-4o-mini)
+🪴 AI-powered journaling — daily logbook entries are automatically categorized into Work / Hobby / Wellness / Social using OpenAI (gpt-4o-mini)\n
 🎨 Generative room objects — every entry spawns 2–3 uniquely AI-illustrated objects (fal.ai FLUX) that populate a persistent, cozy 2.5D room in a consistent Studio Ghibli × Animal Crossing art style
 ♾️ Open-ended object generation — no fixed taxonomy; the AI freely invents novel object types on the fly rather than picking from a preset list
 ⚡ Shared cross-user image cache — identical object types reuse cached illustrations across all users, cutting redundant AI image-generation calls and latency
